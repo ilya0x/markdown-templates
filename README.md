@@ -1,6 +1,7 @@
 # <img src="images/markdown-full-50.png" alt="CSS">
 
-- GitHub README file templates.
+Markdown is a lightweight, plain text-based markup language that simplifies the
+process of creating structured documents and web content.
 
 <br>
 
